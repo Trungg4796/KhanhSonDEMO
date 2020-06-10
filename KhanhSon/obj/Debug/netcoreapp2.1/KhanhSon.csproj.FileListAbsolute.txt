@@ -1,0 +1,14 @@
+C:\Users\tomki\OneDrive\Desktop\OrganiZen\All-in-One 06-05-2020\New folder\Nhom05_Demo\KhanhSon\bin\Debug\netcoreapp2.1\KhanhSon.deps.json
+C:\Users\tomki\OneDrive\Desktop\OrganiZen\All-in-One 06-05-2020\New folder\Nhom05_Demo\KhanhSon\bin\Debug\netcoreapp2.1\KhanhSon.runtimeconfig.json
+C:\Users\tomki\OneDrive\Desktop\OrganiZen\All-in-One 06-05-2020\New folder\Nhom05_Demo\KhanhSon\bin\Debug\netcoreapp2.1\KhanhSon.runtimeconfig.dev.json
+C:\Users\tomki\OneDrive\Desktop\OrganiZen\All-in-One 06-05-2020\New folder\Nhom05_Demo\KhanhSon\bin\Debug\netcoreapp2.1\KhanhSon.dll
+C:\Users\tomki\OneDrive\Desktop\OrganiZen\All-in-One 06-05-2020\New folder\Nhom05_Demo\KhanhSon\bin\Debug\netcoreapp2.1\KhanhSon.pdb
+C:\Users\tomki\OneDrive\Desktop\OrganiZen\All-in-One 06-05-2020\New folder\Nhom05_Demo\KhanhSon\obj\Debug\netcoreapp2.1\KhanhSon.csprojAssemblyReference.cache
+C:\Users\tomki\OneDrive\Desktop\OrganiZen\All-in-One 06-05-2020\New folder\Nhom05_Demo\KhanhSon\obj\Debug\netcoreapp2.1\KhanhSon.csproj.CoreCompileInputs.cache
+C:\Users\tomki\OneDrive\Desktop\OrganiZen\All-in-One 06-05-2020\New folder\Nhom05_Demo\KhanhSon\obj\Debug\netcoreapp2.1\KhanhSon.RazorAssemblyInfo.cache
+C:\Users\tomki\OneDrive\Desktop\OrganiZen\All-in-One 06-05-2020\New folder\Nhom05_Demo\KhanhSon\obj\Debug\netcoreapp2.1\KhanhSon.RazorAssemblyInfo.cs
+C:\Users\tomki\OneDrive\Desktop\OrganiZen\All-in-One 06-05-2020\New folder\Nhom05_Demo\KhanhSon\obj\Debug\netcoreapp2.1\KhanhSon.AssemblyInfoInputs.cache
+C:\Users\tomki\OneDrive\Desktop\OrganiZen\All-in-One 06-05-2020\New folder\Nhom05_Demo\KhanhSon\obj\Debug\netcoreapp2.1\KhanhSon.AssemblyInfo.cs
+C:\Users\tomki\OneDrive\Desktop\OrganiZen\All-in-One 06-05-2020\New folder\Nhom05_Demo\KhanhSon\obj\Debug\netcoreapp2.1\KhanhSon.RazorTargetAssemblyInfo.cache
+C:\Users\tomki\OneDrive\Desktop\OrganiZen\All-in-One 06-05-2020\New folder\Nhom05_Demo\KhanhSon\obj\Debug\netcoreapp2.1\KhanhSon.dll
+C:\Users\tomki\OneDrive\Desktop\OrganiZen\All-in-One 06-05-2020\New folder\Nhom05_Demo\KhanhSon\obj\Debug\netcoreapp2.1\KhanhSon.pdb
